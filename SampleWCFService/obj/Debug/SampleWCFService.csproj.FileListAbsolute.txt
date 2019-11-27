@@ -1,0 +1,6 @@
+D:\EXTRA-DATA\OopsConcept\SampleWCFService\bin\SampleWCFService.dll.config
+D:\EXTRA-DATA\OopsConcept\SampleWCFService\bin\SampleWCFService.dll
+D:\EXTRA-DATA\OopsConcept\SampleWCFService\bin\SampleWCFService.pdb
+D:\EXTRA-DATA\OopsConcept\SampleWCFService\obj\Debug\SampleWCFService.csprojAssemblyReference.cache
+D:\EXTRA-DATA\OopsConcept\SampleWCFService\obj\Debug\SampleWCFService.dll
+D:\EXTRA-DATA\OopsConcept\SampleWCFService\obj\Debug\SampleWCFService.pdb

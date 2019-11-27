@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopsConcept", "OopsConcept\OopsConcept.csproj", "{2E5DBCB5-D5C1-4DBB-8BE5-F78809FAC038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWCFService", "SampleWCFService\SampleWCFService.csproj", "{73D6EE98-F6BF-4920-97C1-B0C9796E0019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E5DBCB5-D5C1-4DBB-8BE5-F78809FAC038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5DBCB5-D5C1-4DBB-8BE5-F78809FAC038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5DBCB5-D5C1-4DBB-8BE5-F78809FAC038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5DBCB5-D5C1-4DBB-8BE5-F78809FAC038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D6EE98-F6BF-4920-97C1-B0C9796E0019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D6EE98-F6BF-4920-97C1-B0C9796E0019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D6EE98-F6BF-4920-97C1-B0C9796E0019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D6EE98-F6BF-4920-97C1-B0C9796E0019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5A63620-A892-45B1-8AFB-E499755FB083}
+	EndGlobalSection
+EndGlobal

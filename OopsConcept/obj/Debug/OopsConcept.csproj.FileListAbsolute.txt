@@ -1,0 +1,6 @@
+D:\EXTRA-DATA\OopsConcept\OopsConcept\bin\Debug\OopsConcept.exe.config
+D:\EXTRA-DATA\OopsConcept\OopsConcept\bin\Debug\OopsConcept.exe
+D:\EXTRA-DATA\OopsConcept\OopsConcept\bin\Debug\OopsConcept.pdb
+D:\EXTRA-DATA\OopsConcept\OopsConcept\obj\Debug\OopsConcept.csprojAssemblyReference.cache
+D:\EXTRA-DATA\OopsConcept\OopsConcept\obj\Debug\OopsConcept.exe
+D:\EXTRA-DATA\OopsConcept\OopsConcept\obj\Debug\OopsConcept.pdb
