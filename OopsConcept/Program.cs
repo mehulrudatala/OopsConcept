@@ -27,7 +27,7 @@ namespace OopsConcept
         }
         private static void Abstraction()
         {
-            //You can create instance of abstract class.like below
+            //You can not create instance of abstract class.like below
             //BaseEmployee be = new BaseEmployee()
 
             //But, Yes you can create instance of child class like below
@@ -136,7 +136,7 @@ namespace OopsConcept
             //It is not necessary to initialize parameters before it pass to out.
             int number = 10;
             int? number2 = null;
-            
+
             RefOutThisKeyward.Addition(number);
             Console.WriteLine(number);
 

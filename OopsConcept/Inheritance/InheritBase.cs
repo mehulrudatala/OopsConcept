@@ -11,7 +11,7 @@ namespace OopsConcept.Inheritance
         /// <summary>
         /// Public: You can use it anywhere using this class object.
         /// Private: You can use it only in this base class.
-        /// Protected: You can use it in this base calss and it's derived/child class.
+        /// Protected: You can use it in this base class and it's derived/child class.
         /// Internal: You can use it in this project/assembly.
         /// 
         /// Multilevel inheritance supported in C#, only multiple inheritance not supported in C#.
