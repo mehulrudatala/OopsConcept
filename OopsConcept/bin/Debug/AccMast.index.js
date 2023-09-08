@@ -1,4 +1,19 @@
-﻿$(document).ready(function () {
+ var IndexJs = {
+     ListUrl: '@Url.Action("List", "AccMast", new { area = "Master" })',
+     UpdateUrl: '@Url.Action("Update", "AccMast", new { area = "Master" })',
+     DeleteUrl: '@Url.Action("Delete", "AccMast", new { area = "Master" })',
+     ActPer: @Html.Raw(Json.Serialize(actionPermission)),
+     ColModel: @Html.Raw(Json.Serialize(PageDisplayExtension.GridColumnConfig(ConsHouse.Core.Common.CoreEnumCollection.MenuCodeKey.C0M0A12))),
+     DropDown: {
+         AccountGroup: {
+             ListUrl: '@Url.Action("AcGrpMast", "DropDown", new { area = "" })',
+         },
+         AccountType: {
+             ListUrl: '@Url.Action("AccTypMast", "DropDown", new { area = "" })',
+         }
+     }
+ };
+$(document).ready(function () {
     InitList();
     DropDownAccountGroup();
     DropDownAccountType();
